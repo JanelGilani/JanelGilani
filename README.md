@@ -4,7 +4,7 @@
 # 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto  
 📍 Toronto, Canada  
-🔍 Passionate about Full-Stack Development, Machine Learning, and building impactful solutions  
+🔍 Actively Looking for Full-Time New Grad 2025 SWE Roles  
 
 - 3x Dean’s List Scholar  
 - UofT International Scholar Awardee 
