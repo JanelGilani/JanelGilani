@@ -3,18 +3,6 @@
   <img id="typing-svg" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=42C6FF&width=600&lines=%24+echo+%27Hello%2C+I+am+Janel+Gilani%21%27" alt="Typing SVG" />
 </a>
 
-<div style="background-color: #2D2D2D; padding: 20px; border-radius: 10px; font-family: 'Fira Code', monospace; color: #42C6FF; width: fit-content;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <span style="color: #FF5F56;">●</span>
-    <span style="color: #FFBD2E;">●</span>
-    <span style="color: #27C93F;">●</span>
-  </div>
-  <p style="margin-top: 10px;">
-    <span style="color: #42C6FF;">$ </span>
-    <span>Hello, I am Janel Gilani!</span>
-  </p>
-</div>
-
 
 ## 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto, Canada  
