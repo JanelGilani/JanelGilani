@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=06402B&width=600&lines=%24+echo+%27Hello%2C+I+am+Janel+Gilani%21%27" alt="Typing SVG" />
 </a>
 
-
+---
 # 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto  
 📍 Toronto, Canada  
@@ -18,6 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
 
 ---
+
 # 💻 Tech Stack:
 
 Languages:<p align="left"> 
@@ -106,7 +107,7 @@ Led a team to build a full-stack web app connecting pets with adopters. Develope
 **Tech**: Django, React, Postman, Heroku, SQLite  
 [GitHub - JanelGilani/petpal-project](https://github.com/JanelGilani/petpal-project)
 
----
+
 
 ### Voter Turnout in Toronto Wards
 **Apr 2024**  
@@ -115,7 +116,7 @@ Analyzed socio-economic and demographic factors impacting voter turnout in the 2
 **Tech**: R, Bayesian Analysis, Regression Models  
 [PDF - toronto_voter_turnout.pdf](https://www.linkedin.com/in/janel-gilani/details/projects/1727212042318/single-media-viewer?type=DOCUMENT&profileId=ACoAAC8gQewBepRoSxQODXcyy6WIMlLzDN_M3Js&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3B3zXYzdK8QUOHmMOTchddyw%3D%3D)
 
----
+
 
 ### Student Performance Predictor
 **Sep 2023 - Dec 2023**  
@@ -124,7 +125,7 @@ Built a machine learning model achieving 88% accuracy in predicting student answ
 **Tech**: PyTorch, NumPy, Matplotlib, scikit-learn  
 [GitHub - JanelGilani/predicting-student-performance-using-machine-learning](https://github.com/JanelGilani/predicting-student-performance-using-machine-learning)
 
----
+
 
 ### BudgetBites: Find Budget-Friendly Food at UTSG
 **Oct 2022 - Dec 2022**  
@@ -133,7 +134,7 @@ Developed a UofT app for finding budget-friendly food on campus. Integrated a bu
 **Tech**: Java, MongoDB, Java Swing, Git  
 [GitHub - JanelGilani/budgetbites](https://github.com/JanelGilani/budgetbites)
 
----
+
 
 ### Self-Learning Minichess AI
 **Jan 2022 - Feb 2022**  
@@ -141,7 +142,7 @@ Developed Minichess with recursive algorithms and a weighted decision tree for A
 
 **Tech**: Python, Pygame, Plotly
 
----
+
 
 ### Hobbies During COVID-19: A Sentiment and Statistical Analysis
 **Oct 2021 - Dec 2021**  
