@@ -1,6 +1,3 @@
-Here’s a GitHub profile README tailored for you, using the format and animation style from the reference:
-
----
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Janel+Gilani!" alt="Typing SVG" /></a>
 
@@ -34,11 +31,3 @@ Implemented ML models for educational predictions, achieving 88% accuracy. Enhan
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=JanelGilani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-This format adds animation, highlights your skills, social links, and some standout projects. Feel free to adjust any content as needed!
