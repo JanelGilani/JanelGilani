@@ -8,10 +8,6 @@
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto, Canada  
 🔍 Actively looking for Full-Time New Grad 2025 SWE Roles  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
-
-
 
 ## 💻 Tech Stack:
 
@@ -150,5 +146,8 @@ Created a survey to analyze hobby trends before and during COVID-19. Applied lex
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JanelGilani&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanelGilani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
 
 
