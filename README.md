@@ -5,14 +5,8 @@
 
 
 # 💫 About Me: 
-🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto  
-📍 Toronto, Canada  
+🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto, Canada  
 🔍 Actively looking for Full-Time New Grad 2025 SWE Roles  
-
-- 3x Dean’s List Scholar  
-- UofT International Scholar Awardee 
-- cGPA: 3.95/4.0  
-- Graduating in June 2025  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
