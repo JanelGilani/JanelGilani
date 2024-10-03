@@ -87,7 +87,7 @@ HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statisti
 📅 September 2021 - June 2025  
 
 **Highlights:**  
-- Arts and Science Internship Program (PEY/Co-op)  
+- Arts and Science Internship Program (PEY/Co-op); 3x Dean's List Scholar; UofT International Scholar  
 - Relevant Coursework: Software Engineering, Deep Learning, Data Structures & Algorithms, Web Programming, Databases, Computer Networks, Computer Vision, Operating Systems, Probability, Statistics & Data Analysis
 
 
