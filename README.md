@@ -1,10 +1,12 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Janel+Gilani!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&pause=1000&color=2BF9F5&width=435&lines=Hello%2C+I+am+Janel+Gilani!" alt="Typing SVG" />
+</a>
 
 # 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto  
 📍 Toronto, Canada  
-🔍 Actively Looking for Full-Time New Grad 2025 SWE Roles  
+🔍 Actively looking for Full-Time New Grad 2025 SWE Roles  
 
 - 3x Dean’s List Scholar  
 - UofT International Scholar Awardee 
