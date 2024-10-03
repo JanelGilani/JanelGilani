@@ -83,7 +83,8 @@ Frameworks/Tools:<p align="left">
 
 ## 🎓 Education:  
 **University of Toronto - St. George Campus**  
-HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statistics Minor 
+HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statistics Minor
+
 📅 September 2021 - June 2025  
 
 **Highlights:**  
