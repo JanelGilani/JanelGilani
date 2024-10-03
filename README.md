@@ -1,23 +1,7 @@
 
 <a href="https://git.io/typing-svg">
-  <img id="typing-svg" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0000FF&width=600&lines=%24+echo+%27Hello%2C+I+am+Janel+Gilani%21%27" alt="Typing SVG" />
+  <img id="typing-svg" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=42C6FF&width=600&lines=%24+echo+%27Hello%2C+I+am+Janel+Gilani%21%27" alt="Typing SVG" />
 </a>
-
-<style>
-  /* Light mode style */
-  @media (prefers-color-scheme: light) {
-    #typing-svg {
-      filter: invert(30%) sepia(90%) saturate(700%) hue-rotate(160deg);
-    }
-  }
-
-  /* Dark mode style */
-  @media (prefers-color-scheme: dark) {
-    #typing-svg {
-      filter: invert(90%) sepia(20%) saturate(300%) hue-rotate(180deg);
-    }
-  }
-</style>
 
 
 
