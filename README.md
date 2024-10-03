@@ -60,8 +60,6 @@ Frameworks/Tools:<p align="left">
   <img src="https://img.shields.io/badge/matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-
-
 ---
 
 # 💼 Work Experience:
