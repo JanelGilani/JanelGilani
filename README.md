@@ -1,7 +1,8 @@
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&pause=1000&color=2BF9F5&width=435&lines=Hello%2C+I+am+Janel+Gilani!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&width=600&lines=%24+echo+%27Hello%2C+I+am+Janel+Gilani%21%27" alt="Typing SVG" />
 </a>
+
 
 # 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto  
