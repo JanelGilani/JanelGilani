@@ -7,7 +7,7 @@
 🔍 Passionate about Full-Stack Development, Machine Learning, and building impactful solutions  
 
 - 3x Dean’s List Scholar  
-- UofT International Scholar  
+- UofT International Scholar Awardee 
 - cGPA: 3.95/4.0  
 - Graduating in June 2025  
 
@@ -34,7 +34,7 @@ May 2023 - August 2023
 
 # 🎓 Education:  
 **University of Toronto - St. George Campus**  
-HBSc - Computer Science Specialist & Statistics Minor  
+HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statistics Minor 
 📅 September 2021 - June 2025  
 
 **Highlights:**  
@@ -45,7 +45,7 @@ HBSc - Computer Science Specialist & Statistics Minor
 
 # 💻 Tech Stack:
 
-<!-- Languages -->
+Languages 
 <p align="left"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -58,7 +58,7 @@ HBSc - Computer Science Specialist & Statistics Minor
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<!-- Frameworks/Tools -->
+Frameworks/Tools:
 <p align="left"> 
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
