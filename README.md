@@ -4,7 +4,7 @@
 </a>
 
 
-# 💫 About Me: 
+## 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto, Canada  
 🔍 Actively looking for Full-Time New Grad 2025 SWE Roles  
 
@@ -13,7 +13,7 @@
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 Languages:<p align="left"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -60,7 +60,7 @@ Frameworks/Tools:<p align="left">
 
 
 
-# 💼 Work Experience:
+## 💼 Work Experience:
 
 ### **Machine Learning Software Engineer** (Co-op)  
 **Noah’s Ark Lab - Huawei Technologies** | May 2024 - Present | Toronto, Canada  
@@ -81,7 +81,7 @@ Frameworks/Tools:<p align="left">
 
 
 
-# 🎓 Education:  
+## 🎓 Education:  
 **University of Toronto - St. George Campus**  
 HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statistics Minor 
 📅 September 2021 - June 2025  
@@ -92,7 +92,7 @@ HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statisti
 
 
 
-# 📂 Projects
+## 📂 Projects
 
 ### PetPal: Connecting Pets with Adopters
 **Feb 2024 - Apr 2024**  
@@ -147,11 +147,9 @@ Created a survey to analyze hobby trends before and during COVID-19. Applied lex
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JanelGilani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JanelGilani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanelGilani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
