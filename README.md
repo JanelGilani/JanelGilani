@@ -15,39 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
 
 ---
-
-# 💼 Work Experience:
-
-### **Machine Learning Software Engineer** (Co-op)  
-**Noah’s Ark Lab - Huawei Technologies** | May 2024 - Present | Toronto, Canada  
-- Built and trained a U-Net model to correct images for viewer eye prescriptions with an 80% success rate.  
-- Integrated Gaussian decomposition to enhance real-time object deletion with over 95% precision.  
-- Optimized the 3D Gaussian Splatting pipeline, reducing deployment image size from 131GB to 21GB using Docker.
-
-### **Software Engineer** (Part-time)  
-**Urban Data Centre, University of Toronto** | September 2023 - April 2024 | Toronto, Canada  
-- Developed a Named Entity Recognition system achieving 91% accuracy for text classification using NLTK and graph traversal.  
-- Wrote an academic report summarizing related work, experiment results, and recommendations, while tuning parameters with scikit-learn.
-
-### **Full-Stack Developer** (Co-op)  
-**Royal Bank of Canada** | May 2023 - August 2023 | Toronto, Canada  
-- Built cloud-based microservices using Spring Boot and REST APIs to support RBC’s MyAdvisor platform, improving user experience for members with multiple plans.  
-- Enhanced front-end UX for beneficiary management by designing responsive web pages using Angular, reducing friction points by 16%.  
-- Led intern onboarding by creating a comprehensive software installation guide, shortening setup time.   
-
----
-
-# 🎓 Education:  
-**University of Toronto - St. George Campus**  
-HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statistics Minor 
-📅 September 2021 - June 2025  
-
-**Highlights:**  
-- Arts and Science Internship Program (PEY/Co-op)  
-- Relevant Coursework: Software Engineering, Deep Learning, Data Structures & Algorithms, Web Programming, Databases, Computer Networks, Computer Vision, Operating Systems, Probability, Statistics & Data Analysis
-
----
-
 # 💻 Tech Stack:
 
 Languages:<p align="left"> 
@@ -93,6 +60,39 @@ Frameworks/Tools:<p align="left">
   <img src="https://img.shields.io/badge/matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
+
+
+---
+
+# 💼 Work Experience:
+
+### **Machine Learning Software Engineer** (Co-op)  
+**Noah’s Ark Lab - Huawei Technologies** | May 2024 - Present | Toronto, Canada  
+- Built and trained a U-Net model to correct images for viewer eye prescriptions with an 80% success rate.  
+- Integrated Gaussian decomposition to enhance real-time object deletion with over 95% precision.  
+- Optimized the 3D Gaussian Splatting pipeline, reducing deployment image size from 131GB to 21GB using Docker.
+
+### **Software Engineer** (Part-time)  
+**Urban Data Centre, University of Toronto** | September 2023 - April 2024 | Toronto, Canada  
+- Developed a Named Entity Recognition system achieving 91% accuracy for text classification using NLTK and graph traversal.  
+- Wrote an academic report summarizing related work, experiment results, and recommendations, while tuning parameters with scikit-learn.
+
+### **Full-Stack Developer** (Co-op)  
+**Royal Bank of Canada** | May 2023 - August 2023 | Toronto, Canada  
+- Built cloud-based microservices using Spring Boot and REST APIs to support RBC’s MyAdvisor platform, improving user experience for members with multiple plans.  
+- Enhanced front-end UX for beneficiary management by designing responsive web pages using Angular, reducing friction points by 16%.  
+- Led intern onboarding by creating a comprehensive software installation guide, shortening setup time.   
+
+---
+
+# 🎓 Education:  
+**University of Toronto - St. George Campus**  
+HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statistics Minor 
+📅 September 2021 - June 2025  
+
+**Highlights:**  
+- Arts and Science Internship Program (PEY/Co-op)  
+- Relevant Coursework: Software Engineering, Deep Learning, Data Structures & Algorithms, Web Programming, Databases, Computer Networks, Computer Vision, Operating Systems, Probability, Statistics & Data Analysis
 
 
 ---
