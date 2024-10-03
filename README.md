@@ -95,9 +95,7 @@ Frameworks/Tools:<p align="left">
 
 
 ---
-
-```md
-## 📂 Projects
+# 📂 Projects
 
 ### PetPal: Connecting Pets with Adopters
 **Feb 2024 - Apr 2024**  
@@ -149,8 +147,6 @@ Created a survey to analyze hobby trends before and during COVID-19. Applied lex
 
 **Tech**: Python, Tkinter, VADER Lexicon, CSV, pandas, Plotly  
 [GitHub - JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis](https://github.com/JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis)
-```
-
 
 ---
 
