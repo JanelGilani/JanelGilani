@@ -96,18 +96,60 @@ Frameworks/Tools:<p align="left">
 
 ---
 
-# 🏆 Recent Projects:
+## 📂 Projects
 
-### **PetPal**  
-**Tech:** Django, React, Postman, Heroku, SQLite | April 2024  
-- Led a team of 4 to develop a full-stack web application connecting pets in need of adoption with potential adopters.  
-- Designed backend APIs and integrated a multiplatform frontend using React and Django in an MVC architecture.  
-- Implemented unit tests and achieved 80% test coverage to ensure code quality.
+### PetPal: Connecting pets with adopters
+**Feb 2024 - Apr 2024**  
+Led a team of four to develop a full-stack web application that connects pets in need of adoption with potential adopters. We followed industry-standard software development practices, using UML diagrams for backend organization and SQLite for data persistence. The project featured a user-friendly ReactJS frontend, implemented Django RESTful APIs for efficient data management, and achieved up to 80% test coverage through extensive unit testing to ensure reliability.
 
-### **Student Performance Predictor**
-**Tech:** PyTorch, NumPy, Matplotlib, scikit-learn | December 2023  
-- Developed a prediction model for student performance in personalized education platforms with 88% accuracy.  
-- Improved accuracy and stability by implementing ensemble learning techniques and conducted detailed ablation studies.
+**Tech**: Django, React, Postman, Heroku, SQLite  
+[GitHub - JanelGilani/petpal-project](https://github.com/JanelGilani/petpal-project)
+
+---
+
+### The Impact of Socio-Economic and Demographic Factors on Voter Turnout in Toronto Wards
+**Apr 2024**  
+This paper investigates the impact of socio-economic and demographic factors on voter turnout in the 2022 Toronto Municipal Election. Using data from Open Data Toronto, Bayesian analysis was applied to examine relationships between a ward’s voter turnout and factors such as education level, income, unemployment rate, population, and number of subdivisions.
+
+**Tech**: R, Bayesian Analysis, Regression Models  
+[PDF - toronto_voter_turnout.pdf](https://www.linkedin.com/in/janel-gilani/details/projects/1727212042318/single-media-viewer?type=DOCUMENT&profileId=ACoAAC8gQewBepRoSxQODXcyy6WIMlLzDN_M3Js&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3B3zXYzdK8QUOHmMOTchddyw%3D%3D)
+
+---
+
+### Student Performance Predictor
+**Sep 2023 - Dec 2023**  
+Developed a machine learning solution for a personalized education platform, achieving 88% accuracy in predicting students' correctness on unseen diagnostic questions. Implemented models including kNN, item-response theory, and autoencoder neural networks. Enhanced model performance by over 10% through a bagging ensemble and L2 regularization, conducting comparative and ablation studies to evaluate limitations.
+
+**Tech**: PyTorch, NumPy, Matplotlib, scikit-learn  
+[GitHub - JanelGilani/predicting-student-performance-using-machine-learning](https://github.com/JanelGilani/predicting-student-performance-using-machine-learning)
+
+---
+
+### BudgetBites: Find budget-friendly food options at UTSG
+**Oct 2022 - Dec 2022**  
+This UofT-based application allows users to find budget-friendly food options at the UTSG campus. Users can search for restaurants and specific food items by parameters such as cuisine type, price range, and food type. The project features a budget-tracking system that reflects users' spending in real-time, helping them adhere to their monthly food budget.
+
+**Tech**: Java, MongoDB, Java Swing, Git
+[GitHub - JanelGilani/budgetbites](https://github.com/JanelGilani/budgetbites)
+
+
+---
+
+### Self-Learning Minichess AI
+**Jan 2022 - Feb 2022**  
+Developed a replica of Minichess using PyGame, applying object-oriented programming principles and data structures to enhance gameplay. Designed recursive algorithms to allow the 'Player' abstract class to learn and optimize moves based on weighted decision trees. Achieved a 100% success rate, validated through plotting win percentages across 1,000+ game trials using Plotly.
+
+**Tech**: Python, Pygame, Plotly
+
+---
+
+### Hobbies During COVID-19 Pandemic: A Sentiment and Statistical Comparative Analysis
+**Oct 2021 - Dec 2021**  
+Designed and implemented an interactive survey to gather insights from over 60 participants regarding their hobbies before and during the pandemic. Utilized the pandas library to conduct lexicon analysis, transforming raw CSV data into quantifiable scores. Created comparative visualizations with bar and bubble charts to effectively analyze trends and present findings.
+
+**Tech**: Python, Tkinter, VADER Lexicon, CSV, pandas, Plotly
+[GitHub - JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis](https://github.com/JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis)
+
 
 ---
 
