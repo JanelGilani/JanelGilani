@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=06402B&width=600&lines=%24+echo+%27Hello%2C+I+am+Janel+Gilani%21%27" alt="Typing SVG" />
 </a>
 
----
+
 # 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto  
 📍 Toronto, Canada  
@@ -17,7 +17,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
 
----
+
 
 # 💻 Tech Stack:
 
@@ -64,7 +64,7 @@ Frameworks/Tools:<p align="left">
   <img src="https://img.shields.io/badge/matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
----
+
 
 # 💼 Work Experience:
 
@@ -85,7 +85,7 @@ Frameworks/Tools:<p align="left">
 - Enhanced front-end UX for beneficiary management by designing responsive web pages using Angular, reducing friction points by 16%.  
 - Led intern onboarding by creating a comprehensive software installation guide, shortening setup time.   
 
----
+
 
 # 🎓 Education:  
 **University of Toronto - St. George Campus**  
@@ -97,7 +97,7 @@ HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statisti
 - Relevant Coursework: Software Engineering, Deep Learning, Data Structures & Algorithms, Web Programming, Databases, Computer Networks, Computer Vision, Operating Systems, Probability, Statistics & Data Analysis
 
 
----
+
 # 📂 Projects
 
 ### PetPal: Connecting Pets with Adopters
@@ -151,7 +151,7 @@ Created a survey to analyze hobby trends before and during COVID-19. Applied lex
 **Tech**: Python, Tkinter, VADER Lexicon, CSV, pandas, Plotly  
 [GitHub - JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis](https://github.com/JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis)
 
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JanelGilani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
