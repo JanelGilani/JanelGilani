@@ -148,11 +148,6 @@ Created a survey to analyze hobby trends before and during COVID-19. Applied lex
 
 <br>
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JanelGilani&theme=dark&hide_border=false&layout=compact)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanelGilani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
 
