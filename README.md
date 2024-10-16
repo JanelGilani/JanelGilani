@@ -55,7 +55,6 @@ Frameworks/Tools:<p align="left">
   <img src="https://img.shields.io/badge/mockito-FFA500?style=for-the-badge&logo=mockito&logoColor=white" />
   <img src="https://img.shields.io/badge/matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janel-gilani/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanelGilani)
