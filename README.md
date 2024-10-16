@@ -8,7 +8,7 @@
 ## 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto, Canada  
 🔍 Actively looking for Full-Time New Grad 2025 SWE Roles  
-[![janelgilani.com](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://janelgilani.netlify.app/) 
+[![janelgilani.com]](https://janelgilani.netlify.app/) 
 <br>
 
 ## 💻 Tech Stack:
