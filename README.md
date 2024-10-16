@@ -8,6 +8,7 @@
 ## 💫 About Me: 
 🎓 4th Year CS Specialist & Statistics Minor @ University of Toronto, Canada  
 🔍 Actively looking for Full-Time New Grad 2025 SWE Roles  
+[![janelgilani.com](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://janelgilani.netlify.app/) 
 <br>
 
 ## 💻 Tech Stack:
@@ -54,98 +55,6 @@ Frameworks/Tools:<p align="left">
   <img src="https://img.shields.io/badge/mockito-FFA500?style=for-the-badge&logo=mockito&logoColor=white" />
   <img src="https://img.shields.io/badge/matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
-<br>
-
-
-
-## 💼 Work Experience:
-
-### **Machine Learning Software Engineer** (Co-op)  
-**Noah’s Ark Lab - Huawei Technologies** | May 2024 - Present | Toronto, Canada  
-- Built and trained a U-Net model to correct images for viewer eye prescriptions with an 80% success rate.  
-- Integrated Gaussian decomposition to enhance real-time object deletion with over 95% precision.  
-- Optimized the 3D Gaussian Splatting pipeline, reducing deployment image size from 131GB to 21GB using Docker.
-
-### **Software Engineer** (Part-time)  
-**Urban Data Centre, University of Toronto** | September 2023 - April 2024 | Toronto, Canada  
-- Developed a Named Entity Recognition system achieving 91% accuracy for text classification using NLTK and graph traversal.  
-- Wrote an academic report summarizing related work, experiment results, and recommendations, while tuning parameters with scikit-learn.
-
-### **Full-Stack Developer** (Co-op)  
-**Royal Bank of Canada** | May 2023 - August 2023 | Toronto, Canada  
-- Built cloud-based microservices using Spring Boot and REST APIs to support RBC’s MyAdvisor platform, improving user experience for members with multiple plans.  
-- Enhanced front-end UX for beneficiary management by designing responsive web pages using Angular, reducing friction points by 16%.  
-- Led intern onboarding by creating a comprehensive software installation guide, shortening setup time.   
-<br>
-
-
-
-## 🎓 Education:  
-**University of Toronto - St. George Campus**  
-HBSc - Computer Science Specialist (Focus in Artificial Intelligence) & Statistics Minor
-
-📅 September 2021 - June 2025  
-
-**Highlights:**  
-- Arts and Science Internship Program (PEY/Co-op); 3x Dean's List Scholar; UofT International Scholar  
-- Relevant Coursework: Software Engineering, Deep Learning, Data Structures & Algorithms, Web Programming, Databases, Computer Networks, Computer Vision, Operating Systems, Probability, Statistics & Data Analysis
-
-<br>
-
-
-## 📂 Projects
-
-### PetPal: Connecting Pets with Adopters
-**Feb 2024 - Apr 2024**  
-Led a team to build a full-stack web app connecting pets with adopters. Developed a React frontend, Django REST APIs, and used SQLite for data persistence. Achieved 80% test coverage through unit testing.
-
-**Tech**: Django, React, Postman, Heroku, SQLite  
-[GitHub - JanelGilani/petpal-project](https://github.com/JanelGilani/petpal-project)
-
-
-
-### Voter Turnout in Toronto Wards
-**Apr 2024**  
-Analyzed socio-economic and demographic factors impacting voter turnout in the 2022 Toronto Municipal Election using Bayesian methods on Open Data Toronto.
-
-**Tech**: R, Bayesian Analysis, Regression Models  
-[PDF - toronto_voter_turnout.pdf](https://www.linkedin.com/in/janel-gilani/details/projects/1727212042318/single-media-viewer?type=DOCUMENT&profileId=ACoAAC8gQewBepRoSxQODXcyy6WIMlLzDN_M3Js&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3B3zXYzdK8QUOHmMOTchddyw%3D%3D)
-
-
-
-### Student Performance Predictor
-**Sep 2023 - Dec 2023**  
-Built a machine learning model achieving 88% accuracy in predicting student answers on diagnostic questions. Improved performance by 10% using ensemble methods.
-
-**Tech**: PyTorch, NumPy, Matplotlib, scikit-learn  
-[GitHub - JanelGilani/predicting-student-performance-using-machine-learning](https://github.com/JanelGilani/predicting-student-performance-using-machine-learning)
-
-
-
-### BudgetBites: Find Budget-Friendly Food at UTSG
-**Oct 2022 - Dec 2022**  
-Developed a UofT app for finding budget-friendly food on campus. Integrated a budget-tracking system for real-time spending management.
-
-**Tech**: Java, MongoDB, Java Swing, Git  
-[GitHub - JanelGilani/budgetbites](https://github.com/JanelGilani/budgetbites)
-
-
-
-### Self-Learning Minichess AI
-**Jan 2022 - Feb 2022**  
-Developed Minichess with recursive algorithms and a weighted decision tree for AI player optimization. Validated success across 1,000+ trials.
-
-**Tech**: Python, Pygame, Plotly
-
-
-
-### Hobbies During COVID-19: A Sentiment and Statistical Analysis
-**Oct 2021 - Dec 2021**  
-Created a survey to analyze hobby trends before and during COVID-19. Applied lexicon analysis and visualized findings using bar and bubble charts.
-
-**Tech**: Python, Tkinter, VADER Lexicon, CSV, pandas, Plotly  
-[GitHub - JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis](https://github.com/JanelGilani/Hobbies-During-COVID-19-Pandemic_A-Sentiment-and-Statistical-Comparative-Analysis)
-
 <br>
 
 ## 🌐 Socials:
